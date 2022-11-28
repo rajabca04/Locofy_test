@@ -1,0 +1,38 @@
+:root {
+  --px-paragraph-2: "Plus Jakarta Sans";
+  --px-paragraph-4-size: 14px;
+  --px-paragraph-3-semi-bold-size: 16px;
+  --px-paragraph-2-size: 18px;
+  --px-paragraph-1-size: 20px;
+  --px-sub-heading-1-size: 24px;
+  --font-size-xl: 36px;
+  --px-heading-1-size: 64px;
+  --white: #fffffe;
+  --light-grey-1: #eff0f3;
+  --black: #2b2c34;
+  --color-gray-400: #0d0d0d;
+  --blue: #6246ea;
+  --color-indigo-200: #001858;
+  --grey: silver;
+  --gap-3xs: 4.2px;
+  --gap-2xs: 10px;
+  --gap-xs: 15px;
+  --gap-sm: 16px;
+  --gap-md: 20px;
+  --gap-lg: 25px;
+  --gap-xl: 30px;
+  --gap-2xl: 50px;
+  --padding-2xs: 19px;
+  --padding-xs: 20px;
+  --padding-sm: 21px;
+  --padding-md: 23px;
+  --padding-lg: 25px;
+  --padding-xl: 200px;
+  --br-xs: 7.46px;
+  --br-sm: 8px;
+  --br-md: 12px;
+  --br-lg: 12.6px;
+  --for-white-background: 4px 6px 13px #d7d7d740;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
